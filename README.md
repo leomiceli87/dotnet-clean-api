@@ -4,11 +4,12 @@ A production-ready Web API built with .NET 8 following Clean Architecture princi
 
 ## Architecture
 
-The solution is organized into 4 layers:
-CleanApi.Domain → Entities, business rules, domain invariants
-CleanApi.Application → Use cases, interfaces, DTOs
+```
+CleanApi.Domain         → Entities, business rules, domain invariants
+CleanApi.Application    → Use cases, interfaces, DTOs
 CleanApi.Infrastructure → EF Core, SQLite, repository implementations
-CleanApi.API → Controllers, middleware, dependency injection
+CleanApi.API            → Controllers, middleware, dependency injection
+```
 
 Dependencies always point inward — the Domain knows nothing about EF Core, HTTP, or any external framework.
 
