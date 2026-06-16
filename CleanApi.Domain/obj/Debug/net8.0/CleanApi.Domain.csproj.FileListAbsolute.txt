@@ -1,0 +1,11 @@
+/Users/leonardomiceli/Projects/CleanApi.Domain/bin/Debug/net8.0/CleanApi.Domain.deps.json
+/Users/leonardomiceli/Projects/CleanApi.Domain/bin/Debug/net8.0/CleanApi.Domain.dll
+/Users/leonardomiceli/Projects/CleanApi.Domain/bin/Debug/net8.0/CleanApi.Domain.pdb
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/CleanApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/CleanApi.Domain.AssemblyInfoInputs.cache
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/CleanApi.Domain.AssemblyInfo.cs
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/CleanApi.Domain.csproj.CoreCompileInputs.cache
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/CleanApi.Domain.dll
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/refint/CleanApi.Domain.dll
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/CleanApi.Domain.pdb
+/Users/leonardomiceli/Projects/CleanApi.Domain/obj/Debug/net8.0/ref/CleanApi.Domain.dll

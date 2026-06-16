@@ -1,0 +1,17 @@
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Infrastructure.deps.json
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Infrastructure.dll
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Infrastructure.pdb
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Application.dll
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Domain.dll
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Application.pdb
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/bin/Debug/net8.0/CleanApi.Domain.pdb
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.AssemblyInfo.cs
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.607C5AEC.Up2Date
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.dll
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/refint/CleanApi.Infrastructure.dll
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/CleanApi.Infrastructure.pdb
+/Users/leonardomiceli/Projects/CleanApi.Infrastructure/obj/Debug/net8.0/ref/CleanApi.Infrastructure.dll

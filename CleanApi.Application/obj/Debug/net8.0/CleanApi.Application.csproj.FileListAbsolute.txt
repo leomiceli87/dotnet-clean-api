@@ -1,0 +1,15 @@
+/Users/leonardomiceli/Projects/CleanApi.Application/bin/Debug/net8.0/CleanApi.Application.deps.json
+/Users/leonardomiceli/Projects/CleanApi.Application/bin/Debug/net8.0/CleanApi.Application.dll
+/Users/leonardomiceli/Projects/CleanApi.Application/bin/Debug/net8.0/CleanApi.Application.pdb
+/Users/leonardomiceli/Projects/CleanApi.Application/bin/Debug/net8.0/CleanApi.Domain.dll
+/Users/leonardomiceli/Projects/CleanApi.Application/bin/Debug/net8.0/CleanApi.Domain.pdb
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.csproj.AssemblyReference.cache
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.AssemblyInfoInputs.cache
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.AssemblyInfo.cs
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.csproj.CoreCompileInputs.cache
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.21A3DDA0.Up2Date
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.dll
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/refint/CleanApi.Application.dll
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/CleanApi.Application.pdb
+/Users/leonardomiceli/Projects/CleanApi.Application/obj/Debug/net8.0/ref/CleanApi.Application.dll
