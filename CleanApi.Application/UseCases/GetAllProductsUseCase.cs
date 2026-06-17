@@ -3,11 +3,11 @@ using CleanApi.Domain.Entities;
 
 namespace CleanApi.Application.UseCases;
 
-public class GetAllProductsUseCase
+public class GetAllProductsUseCase : IUseCase<IEnumerable<Product>>
 {
-    private readonly IProductRepository _repository;
+    private readonly IRepository<Product, Guid> _repository;
 
-    public GetAllProductsUseCase(IProductRepository repository)
+    public GetAllProductsUseCase(IRepository<Product, Guid> repository)
     {
         _repository = repository;
     }

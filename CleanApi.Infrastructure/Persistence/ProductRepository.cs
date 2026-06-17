@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanApi.Infrastructure.Persistence;
 
-public class ProductRepository : IProductRepository
+public class ProductRepository : IRepository<Product, Guid>
 {
     private readonly AppDbContext _context;
 
