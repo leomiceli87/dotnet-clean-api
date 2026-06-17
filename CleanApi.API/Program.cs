@@ -1,32 +1,23 @@
-using CleanApi.Application.Interfaces;
-using CleanApi.Application.UseCases;
-using CleanApi.Infrastructure.Persistence;
-using Microsoft.EntityFrameworkCore;
+using CleanApi.Application;
+using CleanApi.Infrastructure;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlite("Data Source=cleanapi.db"));
-
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
-builder.Services.AddScoped<GetAllProductsUseCase>();
+builder.Services.AddOpenApi();
+builder.Services.AddApplication()
+    .AddInfrastructure();
 
 var app = builder.Build();
 
-using (var scope = app.Services.CreateScope())
-{
-    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    db.Database.EnsureCreated();
-}
+await app.InitializeDatabaseAsync();
 
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.MapOpenApi();
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();

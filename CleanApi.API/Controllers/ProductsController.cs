@@ -1,6 +1,5 @@
-using CleanApi.Application.UseCases;
-using CleanApi.Domain.Entities;
 using CleanApi.Application.Interfaces;
+using CleanApi.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanApi.API.Controllers;
@@ -9,10 +8,10 @@ namespace CleanApi.API.Controllers;
 [Route("api/[controller]")]
 public class ProductsController : ControllerBase
 {
-    private readonly GetAllProductsUseCase _getAllProductsUseCase;
-    private readonly IProductRepository _repository;
+    private readonly IUseCase<IEnumerable<Product>> _getAllProductsUseCase;
+    private readonly IRepository<Product, Guid> _repository;
 
-    public ProductsController(GetAllProductsUseCase getAllProductsUseCase, IProductRepository repository)
+    public ProductsController(IUseCase<IEnumerable<Product>> getAllProductsUseCase, IRepository<Product, Guid> repository)
     {
         _getAllProductsUseCase = getAllProductsUseCase;
         _repository = repository;
